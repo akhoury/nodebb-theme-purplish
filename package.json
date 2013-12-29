@@ -1,5 +1,5 @@
 {
-	"name": "nodebb-theme-cerulean",
+	"name": "nodebb-theme-purplish",
 	"version": "0.0.1",
 	"description": "Purplish theme for NodeBB",
 	"main": "theme.less",
