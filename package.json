@@ -1,0 +1,24 @@
+{
+	"name": "nodebb-theme-cerulean",
+	"version": "0.0.1",
+	"description": "Purplish theme for NodeBB",
+	"main": "theme.less",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/akhoury/nodebb-theme-purplish"
+	},
+	"keywords": [
+		"nodebb",
+		"purplish",
+		"theme",
+		"themes"
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/akhoury/nodebb-theme-purplish/issues"
+	},
+	"peerDependencies": {
+		"nodebb-theme-vanilla": "~0.0.8"
+	},
+	"homepage": "https://github.com/akhoury/nodebb-theme-purplish"
+}
