@@ -1,6 +1,6 @@
 {
 	"name": "nodebb-theme-purplish",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Purplish theme for NodeBB",
 	"main": "theme.less",
 	"repository": {
@@ -18,7 +18,7 @@
 		"url": "https://github.com/akhoury/nodebb-theme-purplish/issues"
 	},
 	"peerDependencies": {
-		"nodebb-theme-vanilla": "~0.0.8"
+		"nodebb-theme-vanilla": "~0.0.12-1"
 	},
 	"homepage": "https://github.com/akhoury/nodebb-theme-purplish"
 }
